@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.input-field {
+    padding: 1rem 1rem;
+}
+
+.emoji {
+    padding: 1rem;
+    transform: scale(2);
+}
